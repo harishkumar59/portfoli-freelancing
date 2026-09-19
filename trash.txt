@@ -1,0 +1,99 @@
+replace the existing with the following 
+
+i will add the real link of view view source code later ignore  that for now
+
+Project 1
+AI Tools Directory
+A website that lists some of the best AI tools in one place.
+Technologies: HTML, CSS, JavaScript
+
+View Project : https://rich-3fe78.web.app/
+
+
+
+
+Project 2
+7sharsds 
+A simple and clean neat website with animations ..
+I created for an agency ..
+Technologies: HTML, CSS, JavaScript
+View Project - 7shards.in
+[Source Code]
+
+
+
+
+
+
+
+
+Project 3
+Restaurant Website - Deccan Dosa
+A responsive and clean website for a restaurant.
+Technologies: HTML, CSS, JavaScript
+[View Project - https://cool-bavarois-58f536.netlify.app/]
+ [Source Code]
+
+
+
+
+Project 4 
+Event Management Website
+A simple and clean event management website.
+Technologies: HTML, CSS, JavaScript
+[View Project-https://cool-raindrop-507227.netlify.app/] 
+[Source Code]
+
+
+
+
+Project 5 
+Restaurant Website - suraj lama momos 
+A responsive and clean website for a restaurant.
+Technologies: HTML, CSS, JavaScript
+[View Project -https://ji603.github.io/dosa-to-momos/]
+ [Source Code]
+
+
+
+add a new section for title "AI Projects "
+
+
+Project  1
+Image Generation Website
+A website using the Black-Forest-Labs/FLUX.1-dev API for AI-based image generation.
+Technologies: AI, API
+[View Project -https://pixlai.netlify.app/] 
+[Source Code]
+
+
+
+
+Project 2
+Recipe Suggestion Website
+A website that suggests recipes based on selected ingredients.
+Technologies: AI, Web APIs
+[View Project- https://harishkumar59.github.io/airecipe/] [Source Code]
+
+
+Project 3
+Text Summarizer
+A tool that generates concise summaries of long texts.
+Technologies: AI, Web APIs
+[View Project -https://harishkumar59.github.io/Text-summarizer/] [Source Code]
+
+
+
+
+Project  4
+AI Jokes Generator
+A fun AI tool that generates jokes based on user input.
+Technologies: AI, Web APIs
+[View Project- https://harishkumar59.github.io/joke-generator/] [Source Code]
+
+
+Project  5
+Sentiment Analyzer
+An AI tool that analyzes the sentiment of a given text.
+Technologies: AI, Web APIs
+[View Project-https://harishkumar59.github.io/Sentiment-Analyzer/] [Source Code]

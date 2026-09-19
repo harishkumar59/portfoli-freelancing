@@ -1,0 +1,138 @@
+<div class="col-md-7 heading-section text-center ftco-animate">
+          <h1 class="big big-2">AI Projects</h1>
+          <h2 class="mb-4">AI Projects</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="project-list">
+            <div class="project-item mb-5">
+              <a href="https://pixlai.netlify.app/" target="_blank">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4VZpS09iUDhujHRkgpPmJwJAffXDKXUwzw&s"
+                  alt="Image Generation Website" />
+              </a>
+
+              <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4VZpS09iUDhujHRkgpPmJwJAffXDKXUwzw&s" alt="Image Generation Website" /> -->
+              <h3>Project 1: AI Image Generation Website</h3>
+              <p>A website using the Black-Forest-Labs/FLUX.1-dev API for AI-based image generation.<br>
+                <b>Technologies:</b> AI API , HTML, CSS, JavaScript<br>
+                <a href="https://pixlai.netlify.app/" target="_blank">View Project</a>
+              </p>
+            </div>
+
+
+            <div class="project-item mb-5">
+              <a href="https://harishkumar59.github.io/Ghibli-style-image-generator/" target="_blank">
+                <img src="images/ghibli-style.png" alt="Ghible Image Generator" />
+              </a>
+
+
+
+              <!-- <img src="images/ghibli-style.png" alt="Recipe Suggestion Website" /> -->
+              <h3>Project 2: AI Ghible Image Generator</h3>
+              <p>A website that generates Ghibli-Style images with text <br>
+                <b>Technologies:</b> AI API , HTML, CSS, JavaScript<br>
+                <a href="https://harishkumar59.github.io/Ghibli-style-image-generator/" target="_blank">View Project</a>
+              </p>
+            </div>
+
+
+
+            <div class="project-item mb-5">
+              <a href="https://date-ai-xna6.vercel.app/" target="_blank">
+                <img src="images/today in history.png" alt="Text Summarizer" />
+              </a>
+              <!-- <img src="images/today in history.png" alt="Text Summarizer" /> -->
+              <h3>Project 3: Today in History</h3>
+              <p>AI tool that tells what happen in history on today and aslo on a specific date of our choice <br>
+                <b>Technologies:</b>TypeScript, Tailwind Css , vercel , Gemini API <br>
+                <a href="https://date-ai-xna6.vercel.app/" target="_blank">View Project</a>
+              </p>
+            </div>
+
+
+
+
+            <div class="project-item mb-5">
+              <a href="https://gem-neon.vercel.app/" target="_blank">
+                <img src="images/neon2.png" alt="AI Jokes Generator" />
+              </a>
+
+
+              <!-- <img src="images/neon2.png" alt="AI Jokes Generator" /> -->
+              <h3>Project 4: Pro Gemini </h3>
+              <p>Its scrapper of gemini but you can use it without login, unlimited times , its free , and best part is
+                your chat-history is also stored in your device<br>
+                <b>Technologies:</b> TypeScript, Tailwind Css , vercel , Gemini API<br>
+                <a href="https://gem-neon.vercel.app/" target="_blank">View Project</a>
+              </p>
+            </div>
+
+
+
+
+            <div class="project-item mb-5">
+              <a href="https://harishkumar59.github.io/AI-Recipe-generator/" target="_blank">
+                <img
+                  src="data:image/jpeg;base64,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"
+                  alt="Recipe Suggestion Website" alt="Recipe Suggestion Website" />
+              </a>
+              <!-- <img src="data:image/jpeg;base64,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" alt="Recipe Suggestion Website" /> -->
+              <h3>Project 5: AI Recipe Generator</h3>
+              <p>A website that suggests recipes based on selected ingredients.<br>
+                <b>Technologies:</b> Hugging Face api , HTML, CSS, JavaScript<br>
+                <a href="https://harishkumar59.github.io/AI-Recipe-generator/" target="_blank">View Project</a>
+              </p>
+            </div>
+            <div class="project-item mb-5">
+              <a href="https://harishkumar59.github.io/Text-summarizer/" target="_blank">
+                <img
+                  src="https://cdn.prod.website-files.com/61e7d259b7746e3f63f0b6be/64eca71f9097536a88403515_tutorial_how_to_summarize_text_with_ai%20(1)-p-1080.webp"
+                  alt="AI Text Summarize" />
+              </a>
+
+
+
+
+              <!-- <img src="https://cdn.prod.website-files.com/61e7d259b7746e3f63f0b6be/64eca71f9097536a88403515_tutorial_how_to_summarize_text_with_ai%20(1)-p-1080.webp" alt="Text Summarizer" /> -->
+              <h3>Project 6: AI Text Summarizer</h3>
+              <p>A tool that generates concise summaries of long texts.<br>
+                <b>Technologies:</b> Hugging Face api , HTML, CSS, JavaScript<br>
+                <a href="https://harishkumar59.github.io/Text-summarizer/" target="_blank">View Project</a>
+              </p>
+            </div>
+
+
+
+            <div class="project-item mb-5">
+              <a href="https://harishkumar59.github.io/joke-generator/" target="_blank">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt9T6catC1ssZjkISAU2Vwqn-ohSBRBQiuEg&s"
+                  alt="AI Jokes Generator" />
+              </a>
+
+
+              <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt9T6catC1ssZjkISAU2Vwqn-ohSBRBQiuEg&s" alt="AI Jokes Generator" /> -->
+              <h3>Project 7: AI Jokes Generator</h3>
+              <p>A fun AI tool that generates jokes based on user input.<br>
+                <b>Technologies:</b> Hugging Face api , HTML, CSS, JavaScript<br>
+                <a href="https://harishkumar59.github.io/joke-generator/" target="_blank">View Project</a>
+              </p>
+            </div>
+
+            <div class="project-item mb-5">
+              <a href="https://harishkumar59.github.io/Sentiment-Analyzer/" target="_blank">
+                <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80"
+                  alt="Sentiment Analyzer" style="cursor: pointer;" />
+              </a>
+
+
+              <!-- <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80" alt="Sentiment Analyzer" /> -->
+              <h3>Project 8: AI Sentiment Analyzer</h3>
+              <p>An AI tool that analyzes the sentiment of a given text.<br>
+                <b>Technologies:</b> AI, Web APIs<br>
+                <a href="https://harishkumar59.github.io/Sentiment-Analyzer/" target="_blank">View Project</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
